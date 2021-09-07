@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Deepak Tiwari @deeparmyschool456
+- 👋 Hi, I’m Deepak Tiwari @deep0711
 - 👀 I am a Full Stack developer 
 - ❤️ Love visualising Algorithms 
-- 💻 Know more about my skillset,projects and past experiences at https://github.com/deeparmyschool456/What-I-have-done-till-now
+- 💻 Know more about my skillset,projects and past experiences at https://github.com/deep0711/What-I-have-done-till-now
 - 📫 Contact me @ deepakait5090@gmail.com
 - 🚀 Connect with me @ https://www.linkedin.com/in/deep-tiw/
 <!---
