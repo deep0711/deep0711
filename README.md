@@ -4,7 +4,7 @@
 <ul>
     <li>📚 I'm currently working on my Final Year Project</li>
     <li>🌱 I'm currenlty learning more about Android Developement</li>
-    <li>🏔️ 2022 Goals: Contribute more to Open Source projects</li>
+    <li>🏔️ 2022 Goal: Contribute more to Open Source projects</li>
     <li>💡 I love to participate in Hackathons</li>
 </ul>
 
@@ -30,6 +30,10 @@
 
 <h2>Github Stats</h2>
 
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep0711&show_icons=true&theme=radical&count_private=true)
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep0711&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep0711&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep0711&layout=compact&theme=radical&hide_rank=false)
+
+<h2>Streak</h2>
+
+![Strek](https://github-readme-streak-stats.herokuapp.com/?user=deep0711&theme=radical&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3")
