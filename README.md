@@ -37,3 +37,9 @@
 <h2>Streak</h2>
 
 ![Strek](https://github-readme-streak-stats.herokuapp.com/?user=deep0711&theme=radical&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3")
+
+<h2>Contribution Graph</h2>
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=deep0711&text_color=a3a3a3&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3&theme=redical&area=true&area_color=a3a3a3"/>
+</p>
