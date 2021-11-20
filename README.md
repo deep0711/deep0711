@@ -28,4 +28,8 @@
 <img src="https://img.icons8.com/fluency/48/000000/github.png" height="45px"/>&nbsp; &nbsp;
 <img src="https://img.icons8.com/color/48/000000/linux--v2.png" height="45px"/>
 
-<p><a href="https://icons8.com">Icons by Icons8</a></p>
+<h2>Github Stats</h2>
+
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep0711&show_icons=true&theme=radical&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep0711&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
