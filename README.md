@@ -4,7 +4,6 @@
 <ul>
     <li>📚 I'm currently working on my Final Year Project</li>
     <li>🌱 I'm currenlty learning more about Android Developement</li>
-    <li>🏔️ 2022 Goal: Contribute more to Open Source projects</li>
     <li>💡 I love to participate in Hackathons</li>
 </ul>
 
