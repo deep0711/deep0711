@@ -3,7 +3,7 @@
 <h1>I am a Student and a Full Stack Developer!</h1>
 <ul>
     <li>📚 I'm currently working on my Final Year Project</li>
-    <li>🌱 I'm currenlty learning more about Android Developement</li>
+    <li>🌱 I'm currenlty learning more about Flutter Developement</li>
     <li>💡 I love to participate in Hackathons</li>
 </ul>
 
